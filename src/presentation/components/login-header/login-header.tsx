@@ -1,7 +1,7 @@
 import React, { memo } from 'react'
 import Styles from './login-header-styles.scss'
 // Logo
-import Logo from '@/presentation/components/logo/logo'
+import { Logo } from '@/presentation/components'
 
 type Props = React.HTMLAttributes<HTMLElement>
 
