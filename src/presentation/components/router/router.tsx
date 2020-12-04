@@ -1,7 +1,5 @@
 import React from 'react'
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
-// Css
-import '@/presentation/styles/global.scss'
 // Components
 import { Login } from '@/presentation/pages'
 
