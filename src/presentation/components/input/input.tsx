@@ -12,7 +12,7 @@ const Input: React.FC<Props> = (props: Props) => {
   }
 
   const getStatus = (): string => {
-    return '&#8226;'
+    return '•' // &#8226;
   }
 
   const getTitle = (): string => {
