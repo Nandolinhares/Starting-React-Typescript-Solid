@@ -10,11 +10,15 @@
     flex-grow: 1;
   }
 
-  .status {
+  .status, .status2 {
     position: absolute;
     right: 8px;
     font-size: 80px;
     color: red;
     cursor: help;
+  }
+
+  .status2 {
+    font-size: 20px;
   }
 }
