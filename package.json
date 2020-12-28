@@ -2,6 +2,8 @@
   "name": "clean-react",
   "version": "1.0.0",
   "main": "index.js",
+  "author": "Fernando Linhares <fernandolinhares1920@globo.com>",
+  "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --open",
     "test": "jest --passWithNoTests --no-cache --runInBand",
@@ -9,8 +11,6 @@
     "test:staged": "yarn test -- --findRelatedTests",
     "test:ci": "yarn test -- --coverage"
   },
-  "author": "Fernando Linhares <fernandolinhares1920@globo.com>",
-  "license": "MIT",
   "devDependencies": {
     "@testing-library/react": "^11.2.2",
     "@types/axios": "^0.14.0",
