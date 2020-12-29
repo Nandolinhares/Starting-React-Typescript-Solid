@@ -1,1 +1,2 @@
 [![Build Status](https://travis-ci.com/Nandolinhares/Starting-React-Typescript-Solid.svg?branch=main)](https://travis-ci.com/Nandolinhares/Starting-React-Typescript-Solid)
+[![Coverage Status](https://coveralls.io/repos/github/Nandolinhares/Starting-React-Typescript-Solid/badge.svg?branch=main)](https://coveralls.io/github/Nandolinhares/Starting-React-Typescript-Solid?branch=main)
