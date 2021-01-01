@@ -1,3 +1,3 @@
 export * from './mock-validation'
 export * from './mock-authentication'
-// Teste
+export * from './mock-save-access-token'
